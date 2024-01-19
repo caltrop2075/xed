@@ -1,5 +1,8 @@
 xed text editor
 
+want a custom configuration
+here's how, I use a DARK THEME
+
 configuration files - root privilege
 /usr/share/gtksourceview-3.0/styles
 /usr/share/gtksourceview-4/styles
