@@ -1,0 +1,3 @@
+xed text editor
+
+how to configure it
