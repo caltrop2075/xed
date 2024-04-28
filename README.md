@@ -1,5 +1,8 @@
 # xed
-xed configuration
+
+xed text editor
+
+how to configure it
 
 xed-cfg.sh
 --------------------------------------------------------------------------------
